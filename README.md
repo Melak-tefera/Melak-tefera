@@ -9,7 +9,7 @@ I'm passionate about software development and continuously learning modern techn
 - 📱 Dart & Flutter
 - 🌐 JavaScript
 - 🗄️ Database Design & Management
-- 📱PostgreSQL
+- 🗄️ PostgreSQL
 - ⚡ Supabase
 - 🔧 Git & GitHub
 - 💻 Software Engineering Principles
