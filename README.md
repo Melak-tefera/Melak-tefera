@@ -1,3 +1,5 @@
+![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=Melak-tefera&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3DMelak-tefera%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1)
+
 <div align="center">
 
 <p><code>melak-tefera@github ~ $ ./maintainer.sh</code></p>
