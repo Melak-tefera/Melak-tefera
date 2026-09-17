@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<p><code>melak-tefera@github ~ $ ./maintainer.sh</code></p>
+<p><code>melak-tefera@github</code></p>
 
 <p align="center">
 <picture>
@@ -16,7 +16,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>C++</code> · <code>HTML</code> · <code>CMake</code></p></td>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>C++</code> · <code>Dart</code> · <code>Flutter</code></p></td>
 <td width="33%" valign="top"><h3>Proof</h3><p>11 public repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Contribution</h3><p>85 contributions · 33 active days</p></td>
 </tr>
@@ -26,7 +26,7 @@
 
 <h2>Open-source toolbox</h2>
 
-<p><code>melak-tefera@github ~ $ toolbox --list</code></p>
+<p><code>melak-tefera@github</code></p>
 
 <p align="center">
 <picture>
@@ -38,9 +38,9 @@
 <table width="100%">
 <tr>
 <td width="17%" align="center"><strong>C++</strong><br /><sub>30%</sub></td>
-<td width="17%" align="center"><strong>HTML</strong><br /><sub>27%</sub></td>
-<td width="17%" align="center"><strong>CMake</strong><br /><sub>23%</sub></td>
-<td width="17%" align="center"><strong>Dart</strong><br /><sub>16%</sub></td>
+<td width="17%" align="center"><strong>Dart</strong><br /><sub>27%</sub></td>
+<td width="17%" align="center"><strong>Flutter</strong><br /><sub>23%</sub></td>
+<td width="17%" align="center"><strong>PostgeSQL</strong><br /><sub>16%</sub></td>
 <td width="17%" align="center"><strong>Swift</strong><br /><sub>3%</sub></td>
 <td width="17%" align="center"><strong>C</strong><br /><sub>2%</sub></td>
 </tr>
@@ -57,10 +57,10 @@
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/Melak-tefera/currency-converter">currency-converter</a></h3><p>currency converter</p><p><sub>C++ · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/Melak-tefera/currency-converter">currency-converter</a></h3><p>currency converter</p><p><sub>Flutter · ⭐ 0</sub></p></td>
 <td width="25%" valign="top"><h3><a href="https://github.com/Melak-tefera/Melak-tefera">Melak-tefera</a></h3><p>A public project looking for its next contributor.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/Melak-tefera/news-app">news-app</a></h3><p>a simple news app using flutter</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/Melak-tefera/todo-list">todo-list</a></h3><p>a todo list using flutter</p><p><sub>C++ · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/Melak-tefera/news-app">news-app</a></h3><p>a simple news app using flutter</p><p><sub>Flutter · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/Melak-tefera/todo-list">todo-list</a></h3><p>a todo list using flutter</p><p><sub>Flutter · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
