@@ -83,14 +83,3 @@
 </p>
 
 <hr />
-
-<h2>Contribute together</h2>
-
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
-
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=melak-tefera&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177973121%3Fv%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=melak-tefera&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177973121%3Fv%3D4&v=oss-social-1&mode=dark" width="100%" alt="Melak community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/melak-tefera">GitHub</a></p>
-<p align="center"><sub>Melak · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
