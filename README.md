@@ -1,117 +1,180 @@
 # 👋 Hey, I'm Melak Tefera
 
-### 💻 Computer Science Student | Learning, Building & Growing
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Learner;JavaScript+%26+Backend+Development;Python+%26+Machine+Learning;Building+Projects%2C+One+Step+at+a+Time" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Flutter+%26+Dart+Learner;JavaScript+%26+Backend+Development;Python+%26+Machine+Learning;Learning.+Building.+Growing." alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-00D9FF?style=for-the-badge" alt="Continuous learning" />
-  <img src="https://img.shields.io/badge/Mindset-Build%20%26%20Improve-7C3AED?style=for-the-badge" alt="Build and improve" />
+  <img src="https://img.shields.io/badge/FOCUS-Continuous%20Learning-00D9FF?style=for-the-badge" alt="Continuous learning" />
+  <img src="https://img.shields.io/badge/MINDSET-Build%20%26%20Improve-7C3AED?style=for-the-badge" alt="Build and improve" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Melak-tefera">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Melak-tefera&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Computer Science student exploring the world of software development, one project at a time.
+I'm a Computer Science student passionate about building useful applications and understanding how technology works behind the scenes.
 
-I enjoy understanding how applications work, from designing mobile interfaces to building backend systems and exploring the possibilities of artificial intelligence.
+I enjoy designing mobile interfaces, exploring backend systems, working with databases, and discovering how artificial intelligence can solve real-world problems.
 
-Currently, I'm working on strengthening my programming fundamentals and turning what I learn into practical projects.
+- 📱 Learning mobile development with **Flutter & Dart**
+- 🌐 Strengthening JavaScript and learning **Node.js backend development**
+- 🔌 Exploring REST APIs, authentication, and server-side programming
+- 🗄️ Practicing SQL, PostgreSQL, SQLite, and Supabase
+- 🐍 Revisiting Python and building my foundation for Machine Learning
+- 🤖 Exploring intelligent applications and practical ML projects
 
-- 📱 Learning to build mobile applications with **Flutter & Dart**
-- 🌐 Strengthening my **JavaScript** skills and learning backend development with **Node.js**
-- 🗄️ Exploring databases, APIs, authentication, and application architecture
-- 🐍 Revisiting **Python** and building a foundation for Machine Learning
-- 🧠 Exploring how Machine Learning can solve real-world problems
-- 🎯 Focused on consistent learning, practical projects, and long-term growth
-
-> My goal is simple: understand the fundamentals, build real things, and keep getting better.
+> 💡 My philosophy: Learn the fundamentals, build real projects, understand the why, and keep improving.
 
 ---
 
-## 🧰 My Tech Journey
+## 🧰 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,nodejs,python,postgres,supabase,git,github,vscode&perline=5" alt="Technologies I'm learning" />
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,dart,python,html,css" alt="Programming languages and web technologies" />
 </p>
 
-| Area | Current Focus |
-|---|---|
-| 📱 Mobile Development | Flutter, Dart, widgets, state management |
-| 🌐 Backend Development | JavaScript, Node.js, REST APIs |
-| 🗃️ Databases | SQL, PostgreSQL, SQLite, Supabase |
-| 🐍 Programming | Python fundamentals and practice |
-| 🤖 Machine Learning | Python foundations and ML concepts |
-| 🏗️ Software Engineering | OOP, architecture, Git, clean code |
+### Frameworks & Backend
 
-*These represent my learning areas, not a claim of professional mastery.*
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,express" alt="Frameworks and backend technologies" />
+</p>
 
----
+### Databases & Development Tools
 
-## 🔨 What I'm Building Toward
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,git,github,vscode,postman" alt="Databases and development tools" />
+</p>
 
-### 📱 Flutter Applications
-Learning to build useful mobile apps with reusable widgets, state management, local storage, and backend integration.
-
-### ⚡ Backend Development
-Learning how servers work, how APIs handle requests, how databases store data, and how authentication protects applications.
-
-### 🗄️ Database-Driven Applications
-Practicing CRUD operations, relational database design, SQL queries, and connecting applications to persistent data.
-
-### 🤖 Python & Machine Learning
-Strengthening Python and gradually progressing toward data analysis, machine learning models, and intelligent applications.
+*These are my learning and development areas; my experience varies by technology.*
 
 ---
 
-## 🎯 My Learning Roadmap
+## 🏗️ What I'm Working Toward
 
-- [ ] Strengthen JavaScript fundamentals
-- [ ] Build small projects with JavaScript
-- [ ] Learn Node.js and Express
-- [ ] Create and deploy REST APIs
-- [ ] Practice SQL and PostgreSQL
-- [ ] Build secure authentication flows
-- [ ] Develop full-stack applications
-- [ ] Continue advancing my Flutter skills
-- [ ] Strengthen Python fundamentals
-- [ ] Build my first practical Machine Learning projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📱 Mobile Development</h3>
+      Building Flutter applications with reusable widgets, state management, local storage, and API integration.
+    </td>
+    <td width="50%">
+      <h3>⚡ Backend Engineering</h3>
+      Learning server-side JavaScript, Node.js, Express, REST APIs, validation, and authentication.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🗄️ Database Engineering</h3>
+      Practicing SQL, relational database design, CRUD operations, and PostgreSQL integration.
+    </td>
+    <td width="50%">
+      <h3>🤖 AI & Machine Learning</h3>
+      Strengthening Python before progressing toward data analysis, ML models, and intelligent applications.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Featured Projects
+
+Projects are where I turn lessons into practical skills. Here are the kinds of projects I'm developing toward.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Flutter To-Do App</h3>
+      A task management application with a clean interface, state management, and local data storage.
+      <br/><br/>
+      <b>Tech:</b> Flutter · Dart · Hive
+      <br/><br/>
+      <a href="https://github.com/Melak-tefera?tab=repositories">Explore repositories →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ REST API Project</h3>
+      A backend application for learning CRUD operations, request validation, error handling, and database integration.
+      <br/><br/>
+      <b>Tech:</b> JavaScript · Node.js · Express
+      <br/><br/>
+      <a href="https://github.com/Melak-tefera?tab=repositories">Explore repositories →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗄️ Database Project</h3>
+      Practical exercises in relational data modeling, SQL queries, and connecting applications to databases.
+      <br/><br/>
+      <b>Tech:</b> SQL · PostgreSQL
+      <br/><br/>
+      <a href="https://github.com/Melak-tefera?tab=repositories">Explore repositories →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Python & ML Experiments</h3>
+      Small experiments to strengthen Python fundamentals and gradually explore machine learning.
+      <br/><br/>
+      <b>Tech:</b> Python · Machine Learning
+      <br/><br/>
+      <a href="https://github.com/Melak-tefera?tab=repositories">Explore repositories →</a>
+    </td>
+  </tr>
+</table>
+
+*Replace these descriptions with links to your actual projects as you publish them.*
 
 ---
 
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melak-tefera&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Melak-tefera&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melak-tefera&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melak-tefera&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Melak-tefera&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+---
+
+## 🎯 My Learning Roadmap
+
+- [ ] Strengthen JavaScript fundamentals
+- [ ] Build small JavaScript projects
+- [ ] Learn Node.js and Express
+- [ ] Create and deploy REST APIs
+- [ ] Practice SQL and PostgreSQL
+- [ ] Implement secure authentication
+- [ ] Build complete full-stack applications
+- [ ] Advance my Flutter and Dart skills
+- [ ] Strengthen Python fundamentals
+- [ ] Build practical Machine Learning projects
 
 ---
 
 ## 🌱 How I Learn
 
-- 📚 Learn the concepts before rushing into complex projects.
-- 🛠️ Practice by writing code and building useful applications.
-- 🧩 Break difficult problems into smaller pieces.
+- 📚 Understand concepts instead of memorizing syntax.
+- 🛠️ Turn what I learn into working projects.
+- 🧩 Break complex problems into manageable steps.
 - 🔍 Debug, review, and improve my code.
-- 📈 Track progress and keep learning consistently.
+- 📈 Track my progress and stay consistent.
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Melak-tefera">
     <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
 </p>
