@@ -85,11 +85,11 @@ Strengthening Python and gradually progressing toward data analysis, machine lea
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Melak-tefera&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melak-tefera&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
